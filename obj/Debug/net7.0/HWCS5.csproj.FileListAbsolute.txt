@@ -1,0 +1,15 @@
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/bin/Debug/net7.0/HWCS5
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/bin/Debug/net7.0/HWCS5.deps.json
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/bin/Debug/net7.0/HWCS5.runtimeconfig.json
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/bin/Debug/net7.0/HWCS5.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/bin/Debug/net7.0/HWCS5.pdb
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.csproj.AssemblyReference.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.AssemblyInfoInputs.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.AssemblyInfo.cs
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.csproj.CoreCompileInputs.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/refint/HWCS5.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.pdb
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/HWCS5.genruntimeconfig.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HWCS5/obj/Debug/net7.0/ref/HWCS5.dll
